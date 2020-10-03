@@ -1,0 +1,8 @@
+#1st create a virtual env
+#install django
+#create project chapai
+#create app travelo
+#download boilerplate template
+#Database postgresql is used
+# two software is needed for db connection   ,psycopg2,pillow
+# 

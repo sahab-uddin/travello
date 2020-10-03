@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\accounts",
+    "\\accounts\\migrations",
+    "\\accounts\\urls.py",
+    "\\chapai",
+    "\\media",
+    "\\media\\pics",
+    "\\templates",
+    "\\travelo",
+    "\\travelo\\migrations"
+  ],
+  "SelectedNode": "\\accounts\\views.py",
+  "PreviewInSolutionExplorer": false
+}
